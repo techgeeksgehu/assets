@@ -1,3 +1,5 @@
+GEHU Logo [https://github.com/gehuhaldwani/assets]
+
 ## Club Logo
 
 |       | SVG                                                              | PNG                                                               |

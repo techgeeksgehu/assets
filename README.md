@@ -1,4 +1,4 @@
-GEHU Logo [https://github.com/gehuhaldwani/assets]
+[GEHU Logo](https://github.com/gehuhaldwani/assets)
 
 ## Club Logo
 
